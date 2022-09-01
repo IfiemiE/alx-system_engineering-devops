@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This repository works on basic shell scripts
