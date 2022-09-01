@@ -11,3 +11,4 @@
 (10) 10-back: changes working directory to previous one
 (11) 11-lists: lists all files in multiple directory
 (12) 12-file_type:check type of file
+(13) 13-symbolic_link: creates symbolic link
