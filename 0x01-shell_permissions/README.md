@@ -6,3 +6,4 @@
 (5) adding executable permission
 (6) adding multiple permissions
 (7) grant everybody permission to execute
+(8) giving the 007 permission - James Bond
