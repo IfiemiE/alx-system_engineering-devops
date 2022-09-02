@@ -5,3 +5,4 @@
 (4) create an empty file
 (5) adding executable permission
 (6) adding multiple permissions
+(7) grant everybody permission to execute
