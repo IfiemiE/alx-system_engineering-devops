@@ -9,3 +9,4 @@
 (8) giving the 007 permission - James Bond
 (9) granting a specific absolute permission - 753
 (10) copying/setting one file permission to another's
+(11) permission to subdirectories only - dir exclusively'
