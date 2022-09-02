@@ -8,3 +8,4 @@
 (7) grant everybody permission to execute
 (8) giving the 007 permission - James Bond
 (9) granting a specific absolute permission - 753
+(10) copying/setting one file permission to another's
