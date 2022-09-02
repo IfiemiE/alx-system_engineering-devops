@@ -15,3 +15,4 @@
 (14) 14-copy_html: copies all html files
 (15) 100-lets_move: moving all files beginning with upper case to directory
 (16) 101-clean_emacs: deletes all emacs ~ files in current directory
+(17) 102-tree: create all subdirectories in a path, if they do not exist
