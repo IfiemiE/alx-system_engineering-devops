@@ -17,3 +17,4 @@
 (16) 101-clean_emacs: deletes all emacs ~ files in current directory
 (17) 102-tree: create all subdirectories in a path, if they do not exist
 (18) 103-commas: sort files and directories, separated by commas
+(19) school.mgc:identification-marker script 
