@@ -11,3 +11,4 @@
 (10) copying/setting one file permission to another's
 (11) permission to subdirectories only - dir exclusively'
 (12) creating a directory with a specified permission in octet mode
+(13) changing the group ownership of a file
