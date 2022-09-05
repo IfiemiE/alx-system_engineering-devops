@@ -7,3 +7,4 @@
 6:display the 3rd line of file iacta
 7:
 8:write(overwrite/create) the output of ls -la to file ls_cwd_content.
+9:duplicate last line of file iacta
