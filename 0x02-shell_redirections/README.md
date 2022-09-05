@@ -5,3 +5,5 @@
 4:display the last 10 lines of /etc/passwd file
 5:display the last 10 lines of /etc/passwd file
 6:display the 3rd line of file iacta
+7:
+8:write(overwrite/create) the output of ls -la to file ls_cwd_content.
