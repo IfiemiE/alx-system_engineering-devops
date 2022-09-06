@@ -11,3 +11,4 @@
 10:computing power
 11:convert binary to denary
 12:combine letters, with special omission and character count
+13:print a number to 2 decimal places
