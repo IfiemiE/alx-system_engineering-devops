@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s [:space:] '\n'|sort -db|uniq
+tr -s [:space:] '\n'|sort -d|uniq -u
