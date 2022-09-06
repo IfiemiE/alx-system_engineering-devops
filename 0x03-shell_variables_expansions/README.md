@@ -13,3 +13,4 @@
 12:combine letters, with special omission and character count
 13:print a number to 2 decimal places
 100:print a decimal number in hexadecimal
+101:encrypt text
