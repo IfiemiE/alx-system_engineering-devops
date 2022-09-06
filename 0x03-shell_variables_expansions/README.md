@@ -9,3 +9,4 @@
 8:computing addition of literal and variable
 9:computing division
 10:computing power
+11:convert binary to denary
