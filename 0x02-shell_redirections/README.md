@@ -18,5 +18,6 @@
 17:display non-matching lines
 18:lines beginning with letters only
 19:switching characters A to Z, c to e
+20:delete C and c from input
 
 
