@@ -9,4 +9,5 @@
 8:write(overwrite/create) the output of ls -la to file ls_cwd_content.
 9:duplicate last line of file iacta
 10:delete all .js files in current directory and subdirectories
-11:Count all directories and subdirectories of the current directory
+11:
+12:list first 10 newest or newly modified files
