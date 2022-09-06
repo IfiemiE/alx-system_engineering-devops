@@ -11,3 +11,4 @@
 10:delete all .js files in current directory and subdirectories
 11:
 12:list first 10 newest or newly modified files
+13:display unique words, without repeatition
