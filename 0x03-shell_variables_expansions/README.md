@@ -7,3 +7,4 @@
 6:create local variables
 7:create global variables
 8:computing addition of literal and variable
+9:computing division
