@@ -12,3 +12,4 @@
 11:
 12:list first 10 newest or newly modified files
 13:display unique words, without repeatition
+14:display lines containing "root"
