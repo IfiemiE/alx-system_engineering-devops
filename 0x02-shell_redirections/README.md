@@ -15,3 +15,7 @@
 14:display lines containing "root"
 15:count the number of the word "bin"
 16:display upto to 3 lines after "last" match-line
+17:display non-matching lines
+
+
+
