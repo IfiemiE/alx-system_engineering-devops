@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z}|tr [:space:] '\n'|sort -d|grep -v oo|head -n 32
