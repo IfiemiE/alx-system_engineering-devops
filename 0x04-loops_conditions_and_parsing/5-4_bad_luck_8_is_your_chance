@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Displays strings through 10 iterations
+# "bad luck" at iteration 4, "good luck" at 8th iteration
+# "best School" every other time
+
+count=0
+while [ $count -lt 10 ]
+do
+    (( count++ ))
+    if [ $count -eq 4 ]
+    then
+        echo "bad luck"
+    elif [ $count -eq 8 ]
+    then
+        echo "good luck"
+    else
+        echo "Best School"
+    fi
+done
