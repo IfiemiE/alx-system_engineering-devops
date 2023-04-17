@@ -7,6 +7,9 @@ sudo ufw default allow outgoing
 # allow ssh
 sudo ufw allow 22
 
+# enable UFW
+sudo ufw enable
+
 # allow https SSL traffic
 sudo ufw allow 443
 
