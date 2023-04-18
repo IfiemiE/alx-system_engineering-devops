@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# executes the whoami command as a another user passed in on CL
+
+sudo -u "$1" whoami
