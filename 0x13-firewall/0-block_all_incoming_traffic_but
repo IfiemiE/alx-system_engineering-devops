@@ -2,7 +2,7 @@
 sudo ufw default deny incoming
 
 # allow outgoing traffic
-sudo ufw default allow outgoing
+sudo ufw default deny outgoing
 
 # allow ssh
 sudo ufw allow 22
