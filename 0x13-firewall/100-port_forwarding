@@ -1,10 +1,10 @@
 #!/bin/bash
 # A port forwarding configuration
 
-*nat
-:PREROUTING ACCEPT [0:0]
--A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
-COMMIT
+printf "*nat\n\
+:PREROUTING ACCEPT [0:0]\n\
+-A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080\n\
+COMMIT\n" >> /etc/ufw/before.rules
 
 # block all incoming traffic by default
 sudo ufw default deny incoming
