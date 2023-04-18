@@ -2,6 +2,6 @@
 # runs web server as user 'nginx', listening at port 8080
 
 sed -i "s/80/8080/g" /etc/nginx/sites-available/default
-sed -i "1 s/www-data/nginx" etc/nginx/nginx.conf
+sed -i "1 s/www-data/nginx" /etc/nginx/nginx.conf
 pkill apache2
 sudo -u nginx service nginx start
