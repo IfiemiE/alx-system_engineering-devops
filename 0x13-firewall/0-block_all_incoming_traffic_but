@@ -1,3 +1,6 @@
+#!/bin/bash
+# ufw configurations
+
 # block all incoming traffic by default
 sudo ufw default deny incoming
 
