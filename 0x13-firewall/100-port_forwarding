@@ -2,3 +2,24 @@
 :PREROUTING ACCEPT [0:0]
 -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
 COMMIT
+
+# block all incoming traffic by default
+sudo ufw default deny incoming
+
+# allow outgoing traffic
+sudo ufw default allow outgoing
+
+# allow ssh
+sudo ufw allow 22
+
+# allow https SSL traffic
+sudo ufw allow 443
+
+# allow http traffic
+sudo ufw allow 80
+
+# allow traffic through 8080
+sudo ufw allow 8080
+
+# enable UFW
+sudo ufw enable
